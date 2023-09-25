@@ -1,4 +1,4 @@
-<h1 align="center" style="color:Aqua">Smart Algorithm</h1>
+<h1*align="center" style="color:Aqua">Smart Algorithm</h1>
 
  >智能算法是路线规划、深度学习等等一系列领域所使用的优化算法，是算法进阶之路的必备之路。
 
@@ -11,7 +11,7 @@
 
 ------
 
-### 简介
+!## 简介
 
 &emsp;&emsp;主要针对目前主流的算法进行实现，例如遗传算法、粒子群算法、模拟退火算法、免疫算法、蚁群算法等等一系列的算法。
 
@@ -41,4 +41,4 @@
 
 |支付宝/微信/QQ|
 |-------------|
-|![二维码](https://markdown-liyang.oss-cn-beijing.aliyuncs.com/Pay.JPG)|
+|![二维码](https://markdown-liyang.oss-cn-beijing.aliyuncs.com/Pay.JPG)| 
